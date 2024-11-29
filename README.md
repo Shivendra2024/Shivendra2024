@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivendra Singh</h1>
 <h3 align="center">A passionate Software Development in Testing from India</h3>
-<h3 align="center">About Us</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">I'm a fresher software tester with hands-on experience in both manual testing and automation testing. I love solving problems and ensuring that software works seamlessly before it reaches the end user. My goal is to continuously improve my skills and contribute to creating better software. </p>
 
